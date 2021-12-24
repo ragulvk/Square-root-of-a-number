@@ -15,7 +15,7 @@ To write a program to find the square root of a number.
 5. Return number
 
 ## Program:
-```
+~~~ python
 /*
 Program to find the square root for the given number(newton's method) using function.
 Developed by: RAGUL VK
@@ -28,10 +28,10 @@ def fun():
     print("Square root of the number:",x)
 fun()
 */
-```
+~~~
 
 ## Output:
-![output](sqss.jpg)
+![output](ragul.png)
 
 
 ## Result:
